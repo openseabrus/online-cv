@@ -3,19 +3,19 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Guilherme Seabra
     tagline: Computer Science Engineer (Pending Master Degree's presentation)
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: g.seabra@protonmail.com
     phone: #012 345 6789
     website: #blog.webjeda.com #do not add http://
-    linkedin: seabrus#alandoe
+    linkedin: seabrus #alandoe
     github: openseabrus #sharu725
     gitlab:
     bitbucket:
@@ -37,6 +37,9 @@ sidebar:
 
       - item: Travelling
         link:
+        
+      - item: Sports
+        link:
 
 career-profile:
     title: Career Profile
@@ -53,46 +56,40 @@ education:
     - degree: MSc in Computer Science
       university: Faculdade de Ciências e Tecnologia - FCT NOVA
       time: 2017 - 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      details:
 
     - degree: BSc in Computer Science
       university: Faculdade de Ciências e Tecnologia - FCT NOVA
       time: 2013 - 2017
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      details:
 
 experiences:
+    - role: Investigation
+      time: 2018 - 2019
+      company: FCT NOVA
+      details: |
+        Created and implemented a context-based automatic adaptation model for Geographic Information Systems
+        (GIS). Throughout this investigation I was responsible for creating a Web application where knowledgeable
+        system administrators are able to define automatic adaptations for an Android application. This Android
+        application for tourism was built as a proof of concept for the model. The application reads what the administrators
+        defined on the configuration platform and changes its behaviour according to the specifications. As it
+        was built as a tourism application, it was supported by points of interest which were stored on a separate
+        server, also created and implemented throughout the investigation.
+        
+
+          - Technologies used on the Configuration Platform: Node.js/Express.js, Angular, MongoDB
+          - Technologies used on the Android application: Java
+          - Technologies used on the Configuration Platform: Node.js/Express.js, PostgreSQL, PostGIS
+          
     - role: Software Developer (Internship)
-      time: 2016 - 2017
+      time: 2016 - 2017 (5 mos)
       company: B-Guest
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Responsible for building a tablet application for simplifying the check-in process on hotels. This application was built from scratch
+        using the NativeScript framework, which reads Angular/TypeScript code and generates both iOS and Android application
+        files. Througout this internship I also helped build some new features on the company's main Web application and API.
 
-          - Bullet point
-          - Bullet point
+          - Technologies used: NativeScript, Angular
 
 projects:
     title: Projects
@@ -122,26 +119,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -163,6 +140,9 @@ skills:
 
       - name: Python
         level: 60%
+        
+      - name: C
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
