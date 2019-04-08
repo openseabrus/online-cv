@@ -53,6 +53,7 @@ education:
       details:
 
 experiences:
+    name: Experiences
     - role: Investigation
       time: 2018 - 2019
       company: FCT NOVA
@@ -143,6 +144,7 @@ career-profile:
       Second paragraph if required.
 
 experiences:
+    name: Extracurricular Activity
     - role: Investigation
       time: 2018 - 2019
       company: FCT NOVA
