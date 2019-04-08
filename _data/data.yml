@@ -41,17 +41,6 @@ sidebar:
       - item: Sports
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
 education:
     - degree: MSc in Computer Science
       university: Faculdade de Ciências e Tecnologia - FCT NOVA
@@ -107,16 +96,16 @@ projects:
         tagline: "A simple website containing a small exercise where one is able to define the desired duration. This exercise asks the user what is the new order of the symbols shown. The user is supposed to choose the correct answer as many times as possible. This project was developed in order to help a friend prepare for a job interview which required him to solve similar problems."
 
       - title: TwitchStuff
-        link: "http://twitchstuff.herokuapp.com"
-        tagline: "A responsive website for checking multiple information related with the Twitch platform. This website is able to check how long a streamer has been broadcasting, how long a certain user has been following another, the list of a channel's emotes, and more."
+        link: "https://github.com/openseabrus/twitchstuff"
+        tagline: "A responsive website for checking multiple information related with the Twitch platform. This website is able to check how long a streamer has been broadcasting, how long a certain user has been following another, the list of a channel's emotes, and more. A working version is available at http://twitchstuff.herokuapp.com"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Excel Sorter
+        link: "https://github.com/openseabrus/excel_sorter"
+        tagline: "A tool for sorting and managing the Excel file containing information regarding a precision shooting competition. This Java program was developed as the organization was having trouble dealing with the competition's requirements and asked me if I could build them a new and automatic way of solving their problems."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Albearth
+        link: "https://github.com/openseabrus/albearth"
+        tagline: "A responsive web application developed for the Geographic Information Technologies class. This application lists the different places available for studying (e.g. libraries, coffee shops, etc) in Portugal. The website also contains a sign up/in and rating system and all the studying places are introduced by registered users. A working version is available at https://albearth.herokuapp.com"
 
 skills:
     title: Skills &amp; Proficiency
@@ -142,6 +131,20 @@ skills:
         
       - name: C
         level: 50%
+        
+      - name: SQL
+        level: 70%
+
+career-profile:
+    title: Extracurricular Activity
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+
+      Second paragraph if required.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
