@@ -134,6 +134,15 @@ skills:
         
       - name: SQL
         level: 70%
+        
+      - name: Git
+        level: 80%
+        
+      - name: JSON
+        level: 95%
+        
+      - name: MongoDB
+        level: 65%
 
 activities:
     - role: Complete Python Bootcamp - Go from zero to hero in Python 3
