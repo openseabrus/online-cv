@@ -136,24 +136,34 @@ skills:
         level: 70%
 
 activities:
+    - role: Complete Python Bootcamp: Go from zero to hero in Python 3
+      time: 04/2019
+      company: Udemy
+      details: |
+        - Learned to program in Python 3 through a Udemy course.
+        - Certificate available on: https://www.udemy.com/certificate/UC-LG758S38/
+
     - role: Expo FCT 2019
       time: 04/2018
       company: FCT NOVA
       details: |
+          Voluntary in 'Informática Artesanal''s room. During this day my role was to help young students with small exercises
+          based on checksums, graphs or possible algorithms for distributed systems. All these activities were performed while
+          having no access to computers.
+          
+    - role: Affinity Tech Talks (Introduction to Angular 5)
+      time: 11/2017
+      company: Affinity Portugal
+      details: |
         
-        
-
-          - Technologies used on the Configuration Platform: Node.js/Express.js, Angular, MongoDB
-          - Technologies used on the Android application: Java
-          - Technologies used on the Configuration Platform: Node.js/Express.js, PostgreSQL, PostGIS
+        - Learned the basic concepts of Angular such as Components, Modules, Services, etc.
           
     - role: FCT Coding Fest
       time: 11/2016
       company: FCT NOVA
       details: |
-        Responsible for
-
-          - Technologies used: NativeScript, Angular
+        Voluntary in aiding and teaching primary school children in small programming exercises (through blocks) and helping them
+        reach optimal solutions.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
