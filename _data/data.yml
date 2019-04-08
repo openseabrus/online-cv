@@ -92,24 +92,23 @@ experiences:
           - Technologies used: NativeScript, Angular
 
 projects:
-    title: Projects
+    title: Personal Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Most of the projects shown in the following list were developed during my spare time and are related with
+      platforms/games/groups I enjoy. They were developed for self-learning and entertainment purposes.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Oracle's chat bot
+        link: "https://github.com/openseabrus/oracle"
+        tagline: "A chat bot for the Discord platform. This chat bot is used by me and a group of friends on a Discord server for entertainment purposes. It contains multiple commands such as an 8ball-like feature and a random name picker (from the user list). This project gets further developments whenever one of the members suggests a new feature."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Go Freddy!
+        link: "https://gofreddy.herokuapp.com/"
+        tagline: "A simple website containing a small exercise where one is able to define the desired duration. This exercise asks the user what is the new order of the symbols shown. The user is supposed to choose the correct answer as many times as possible. This project was developed in order to help a friend prepare for a job interview which required him to solve similar problems."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: TwitchStuff
+        link: "http://twitchstuff.herokuapp.com"
+        tagline: "A responsive website for checking multiple information related with the Twitch platform. This website is able to check how long a streamer has been broadcasting, how long a certain user has been following another, the list of a channel's emotes, and more."
 
       - title: Atom
         link: "#"
