@@ -145,30 +145,22 @@ career-profile:
 
 experiences:
     name: Extracurricular Activity
-    - role: Investigation
-      time: 2018 - 2019
+    - role: Expo FCT 2019
+      time: 04/2018
       company: FCT NOVA
       details: |
-        Created and implemented a context-based automatic adaptation model for Geographic Information Systems
-        (GIS). Throughout this investigation I was responsible for creating a Web application where knowledgeable
-        system administrators are able to define automatic adaptations for an Android application. This Android
-        application for tourism was built as a proof of concept for the model. The application reads what the administrators
-        defined on the configuration platform and changes its behaviour according to the specifications. As it
-        was built as a tourism application, it was supported by points of interest which were stored on a separate
-        server, also created and implemented throughout the investigation.
+        
         
 
           - Technologies used on the Configuration Platform: Node.js/Express.js, Angular, MongoDB
           - Technologies used on the Android application: Java
           - Technologies used on the Configuration Platform: Node.js/Express.js, PostgreSQL, PostGIS
           
-    - role: Software Developer (Internship)
-      time: 2016 - 2017 (5 mos)
-      company: B-Guest
+    - role: FCT Coding Fest
+      time: 11/2016
+      company: FCT NOVA
       details: |
-        Responsible for building a tablet application for simplifying the check-in process on hotels. This application was built from scratch
-        using the NativeScript framework, which reads Angular/TypeScript code and generates both iOS and Android application
-        files. Througout this internship I also helped build some new features on the company's main Web application and API.
+        Responsible for
 
           - Technologies used: NativeScript, Angular
 
