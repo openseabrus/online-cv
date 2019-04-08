@@ -135,14 +135,7 @@ skills:
       - name: SQL
         level: 70%
 
-career-profile:
-    title: Extracurricular Activity
-    summary: |
-      
-
-      Second paragraph if required.
-
-activity:
+activities:
     - role: Expo FCT 2019
       time: 04/2018
       company: FCT NOVA
