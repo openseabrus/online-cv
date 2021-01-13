@@ -103,7 +103,7 @@ projects:
     assignments:
       - title: SnowtripBot chat bot
         link: "https://github.com/openseabrus/snowtrip"
-        tagline: "A chat bot for Telegram. This chat bot is used by me and a group of friends who love skiing. Being a skiing enthusiast, I often think about my next snow trip. As my friends also enjoy winter sports, I have created a Telegram chat bot that can fetch relevant information for different ski resorts. For example, we can get weather forecast information, real-time pictures of the different resorts or the amount of open slopes for a desired location."
+        tagline: "A chat bot for Telegram. This chat bot is used by me and a group of friends who love skiing. Being a skiing enthusiast, I often think about my next snow trip. As my friends also enjoy winter sports, I have created a Telegram chat bot that can fetch relevant information for different ski resorts. For example, we can get weather forecast information, real-time pictures of the different resorts or the amount of open slopes for a desired location. A working version can be found by starting a conversation with @SnowtripBot on Telegram."
 
       - title: Oracle's chat bot
         link: "https://github.com/openseabrus/oracle"
