@@ -126,19 +126,19 @@ skills:
 
     toolset:
       - name: Java
-        level: 95%
+        level: 70%
 
-      - name: Javascript
+      - name: JavaScript
         level: 90%
 
-      - name: Angular
-        level: 80%
+      - name: React
+        level: 90%
 
       - name: HTML5 & CSS
         level: 90%
 
       - name: Node.js & Express.js
-        level: 50%
+        level: 40%
 
       - name: Python
         level: 60%
@@ -149,14 +149,11 @@ skills:
       - name: SQL
         level: 70%
         
-      - name: Git
-        level: 80%
-        
-      - name: JSON
-        level: 95%
-        
       - name: MongoDB
-        level: 65%
+        level: 60%
+        
+      - name: AEM
+        level: 40%
 
 activities:
     - role: Complete Python Bootcamp - Go from zero to hero in Python 3
