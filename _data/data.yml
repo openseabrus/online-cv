@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Guilherme Seabra
-    tagline: Master in Computer Science
+    tagline: Computer Science Engineer
     # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,6 +53,20 @@ education:
       details:
 
 experiences:
+    - role: Frontend Developer
+      time: 2019 - Present
+      company: Diconium digital solutions
+      details: |
+        Working as a Software developer for an e-commerce platform for selling handheld power equipment. The platform is in constant change,
+        so all sorts of new features were developed - from new checkout logic to analytics - but this
+        also resulted in the need for several bug fixes. While assigned to this project, I worked mainly as a Front-end developer,
+        but I could still develop several functionalities in the middleware (Adobe IO), and in the CMS (Adobe Experience Manager).
+        Scrum was the chosen agile framework for this project and we were able to successfully go live in two countries, with different languages.
+
+         
+          - One of the things I enjoyed the most was having the opportunity to share my React/JS knowledge with colleagues from all over the company in a 'React Bootcamp'.
+          - Technologies used: JavaScript (React, Redux), HTML/CSS, some JAVA
+          
     - role: Investigation
       time: 2018 - 2019
       company: FCT NOVA
@@ -76,7 +90,7 @@ experiences:
       details: |
         Responsible for building a tablet application for simplifying the check-in process on hotels. This application was built from scratch
         using the NativeScript framework, which reads Angular/TypeScript code and generates both iOS and Android application
-        files. Throughout this internship I also helped build some new features on the company's main Web application and API.
+        files. Througout this internship I also helped build some new features on the company's main Web application and API.
 
           - Technologies used: NativeScript, Angular
 
@@ -87,6 +101,10 @@ projects:
       platforms/games/groups I enjoy. They were developed for self-learning and entertainment purposes.
 
     assignments:
+      - title: SnowtripBot chat bot
+        link: "https://github.com/openseabrus/snowtrip"
+        tagline: "A chat bot for Telegram. This chat bot is used by me and a group of friends who love skiing. Being a skiing enthusiast, I often think about my next snow trip. As my friends also enjoy winter sports, I have created a Telegram chat bot that can fetch relevant information for different ski resorts. For example, we can get weather forecast information, real-time pictures of the different resorts or the amount of open slopes for a desired location."
+
       - title: Oracle's chat bot
         link: "https://github.com/openseabrus/oracle"
         tagline: "A chat bot for the Discord platform. This chat bot is used by me and a group of friends on a Discord server for entertainment purposes. It contains multiple commands such as an 8ball-like feature and a random name picker (from the user list). This project gets further developments whenever one of the members suggests a new feature."
@@ -94,10 +112,6 @@ projects:
       - title: Go Freddy!
         link: "https://gofreddy.herokuapp.com/"
         tagline: "A simple website containing a small exercise where one is able to define the desired duration. This exercise asks the user what is the new order of the symbols shown. The user is supposed to choose the correct answer as many times as possible. This project was developed in order to help a friend prepare for a job interview which required him to solve similar problems."
-
-      - title: TwitchStuff
-        link: "https://github.com/openseabrus/twitchstuff"
-        tagline: "A responsive website for checking multiple information related with the Twitch platform. This website is able to check how long a streamer has been broadcasting, how long a certain user has been following another, the list of a channel's emotes, and more. A working version is available at http://twitchstuff.herokuapp.com"
 
       - title: Excel Sorter
         link: "https://github.com/openseabrus/excel_sorter"
