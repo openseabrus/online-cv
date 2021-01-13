@@ -42,6 +42,14 @@ sidebar:
       - item: Sports
         link:
 
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am looking for new challenges and opportunities. I really love being a software engineer and being able to contribute to cool and interesting projects. Although I am more experienced on Frontend development, I also enjoy doing Backend tasks whenever possible. I would love to keep learning and improving my knowledge so I can keep delivering high-quality applications with added value.
+      
+      My passion is not only learning new things, but also teaching them to other colleagues.
+      
 education:
     - degree: MSc in Computer Science
       university: Faculdade de Ciências e Tecnologia - FCT NOVA
