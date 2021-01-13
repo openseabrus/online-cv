@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Guilherme Seabra
-    tagline: Computer Science Engineer (Pending Master Degree's presentation)
+    tagline: Computer Science Engineer
     # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -64,6 +64,20 @@ education:
       details:
 
 experiences:
+    - role: Frontend Developer
+      time: 2019 - Present
+      company: Diconium digital solutions
+      details: |
+        Working as a Software developer for an e-commerce platform for selling handheld power equipment. The platform is in constant change,
+        so all sorts of new features were developed - from new checkout logic to analytics - but this
+        also resulted in the need for several bug fixes. While assigned to this project, I worked mainly as a Front-end developer,
+        but I could still develop several functionalities in the middleware (Adobe IO), and in the CMS (Adobe Experience Manager).
+        Scrum was the chosen agile framework for this project and we were able to successfully go live in two countries, with different languages.
+
+         
+          - One of the things I enjoyed the most was having the opportunity to share my React/JS knowledge with colleagues from all over the company in a 'React Bootcamp'.
+          - Technologies used: JavaScript (React, Redux), HTML/CSS, some JAVA
+          
     - role: Investigation
       time: 2018 - 2019
       company: FCT NOVA
@@ -124,13 +138,13 @@ skills:
 
     toolset:
       - name: Java
-        level: 95%
+        level: 70%
 
       - name: Javascript
         level: 90%
 
-      - name: Angular
-        level: 80%
+      - name: React
+        level: 90%
 
       - name: HTML5 & CSS
         level: 90%
@@ -144,14 +158,11 @@ skills:
       - name: C
         level: 50%
         
-      - name: Git
-        level: 80%
-        
-      - name: JSON
-        level: 95%
-        
       - name: MongoDB
         level: 65%
+        
+      - name: AEM
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
