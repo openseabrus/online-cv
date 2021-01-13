@@ -41,17 +41,6 @@ sidebar:
       - item: Sports
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
 education:
     - degree: MSc in Computer Science
       university: Faculdade de Ciências e Tecnologia - FCT NOVA
@@ -93,7 +82,7 @@ experiences:
 
           - Technologies used on the Configuration Platform: Node.js/Express.js, Angular, MongoDB
           - Technologies used on the Android application: Java
-          - Technologies used on the Configuration Platform: Node.js/Express.js, PostgreSQL, PostGIS
+          - Technologies used on the Points of Interest server: Node.js/Express.js, PostgreSQL, PostGIS
           
     - role: Software Developer (Internship)
       time: 2016 - 2017 (5 mos)
@@ -106,32 +95,31 @@ experiences:
           - Technologies used: NativeScript, Angular
 
 projects:
-    title: Projects
+    title: Personal Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Most of the projects shown in the following list were developed during my spare time and are related with
+      platforms/games/groups I enjoy. They were developed for self-learning and entertainment purposes.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SnowtripBot chat bot
+        link: "https://github.com/openseabrus/snowtrip"
+        tagline: "A chat bot for Telegram. This chat bot is used by me and a group of friends who love skiing. Being a skiing enthusiast, I often think about my next snow trip. As my friends also enjoy winter sports, I have created a Telegram chat bot that can fetch relevant information for different ski resorts. For example, we can get weather forecast information, real-time pictures of the different resorts or the amount of open slopes for a desired location. A working version can be found by starting a conversation with @SnowtripBot on Telegram."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Oracle's chat bot
+        link: "https://github.com/openseabrus/oracle"
+        tagline: "A chat bot for the Discord platform. This chat bot is used by me and a group of friends on a Discord server for entertainment purposes. It contains multiple commands such as an 8ball-like feature and a random name picker (from the user list). This project gets further developments whenever one of the members suggests a new feature."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Go Freddy!
+        link: "https://gofreddy.herokuapp.com/"
+        tagline: "A simple website containing a small exercise where one is able to define the desired duration. This exercise asks the user what is the new order of the symbols shown. The user is supposed to choose the correct answer as many times as possible. This project was developed in order to help a friend prepare for a job interview which required him to solve similar problems."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Excel Sorter
+        link: "https://github.com/openseabrus/excel_sorter"
+        tagline: "A tool for sorting and managing the Excel file containing information regarding a precision shooting competition. This Java program was developed as the organization was having trouble dealing with the competition's requirements and asked me if I could build them a new and automatic way of solving their problems."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Albearth
+        link: "https://github.com/openseabrus/albearth"
+        tagline: "A responsive web application developed for the Geographic Information Technologies class. This application lists the different places available for studying (e.g. libraries, coffee shops, etc) in Portugal. The website also contains a sign up/in and rating system and all the studying places are introduced by registered users. A working version is available at https://albearth.herokuapp.com"
 
 skills:
     title: Skills &amp; Proficiency
@@ -140,7 +128,7 @@ skills:
       - name: Java
         level: 70%
 
-      - name: Javascript
+      - name: JavaScript
         level: 90%
 
       - name: React
@@ -150,7 +138,7 @@ skills:
         level: 90%
 
       - name: Node.js & Express.js
-        level: 50%
+        level: 40%
 
       - name: Python
         level: 60%
@@ -158,11 +146,44 @@ skills:
       - name: C
         level: 50%
         
+      - name: SQL
+        level: 70%
+        
       - name: MongoDB
-        level: 65%
+        level: 60%
         
       - name: AEM
         level: 40%
+
+activities:
+    - role: Complete Python Bootcamp - Go from zero to hero in Python 3
+      time: 04/2019
+      company: Udemy
+      details: |
+        - Learned to program in Python 3 through a Udemy course.
+        - Certificate available on: https://www.udemy.com/certificate/UC-LG758S38/
+
+    - role: Expo FCT 2018
+      time: 04/2018
+      company: FCT NOVA
+      details: |
+          Voluntary in 'Informática Artesanal''s room. During this day my role was to help young students with small exercises
+          based on checksums, graphs or possible algorithms for distributed systems. All these activities were performed while
+          having no access to computers.
+          
+    - role: Affinity Tech Talks (Introduction to Angular 5)
+      time: 11/2017
+      company: Affinity Portugal
+      details: |
+        
+        - Learned the basic concepts of Angular such as Components, Modules, Services, etc.
+          
+    - role: FCT Coding Fest
+      time: 11/2016
+      company: FCT NOVA
+      details: |
+        Voluntary in aiding and teaching primary school children in small programming exercises (through blocks) and helping them
+        reach optimal solutions.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
