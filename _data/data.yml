@@ -82,7 +82,7 @@ experiences:
 
           - Technologies used on the Configuration Platform: Node.js/Express.js, Angular, MongoDB
           - Technologies used on the Android application: Java
-          - Technologies used on the Configuration Platform: Node.js/Express.js, PostgreSQL, PostGIS
+          - Technologies used on the Points of Interest server: Node.js/Express.js, PostgreSQL, PostGIS
           
     - role: Software Developer (Internship)
       time: 2016 - 2017 (5 mos)
